@@ -7,8 +7,8 @@ const LoginPage = () => {
       <div className="max-w-md w-full space-y-8 p-10 bg-white bg-opacity-10 backdrop-filter backdrop-blur-lg rounded-xl shadow-2xl">
         <div>
           <Image
-            className="mx-auto h-20 w-auto"
-            src="/logo.png"
+            className="mx-auto h-32 w-auto"
+            src="/logo1.png"
             alt="Your Admin Dashboard Logo"
             width={80}
             height={80}
