@@ -75,7 +75,7 @@ const LoginForm = () => {
             />
           </div>
         </div>
-        <div className="flex items-center justify-between">
+        <div className="flex items-center justify-between max-sm:space-x-8">
           <div className="flex items-center">
             <input
               id="remember-me"
